@@ -80,7 +80,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.8.7",
-    "@maximusft/mergeclassnames": "^1.0.1",
+    "@maximusft/mergeclassnames": "github:MaximusFT/mergeClassNames",
     "braft-convert": "^2.3.0",
     "braft-extensions": "beta",
     "braft-finder": "0.0.21",
